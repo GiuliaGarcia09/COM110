@@ -278,7 +278,7 @@ int main()
                     printf("\n\n Insira o tamanho do lado do losango: ");
                     scanf("%f", &ladoLosango);
                     
-                    printf(" Insira o diâmetro maior e o diâmetro menor do paralelogramo: ");
+                    printf(" Insira o diâmetro maior e o diâmetro menor do losango: ");
                     scanf("%f %f", &dMaior, &dMenor);
                     
                     printf("\n ÁREA: %.2f", (dMaior*dMenor)/2);
