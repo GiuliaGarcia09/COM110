@@ -1,3 +1,3 @@
 # COM110
 
-Repositório das listas de exercício da matéria COM110 da UNIFEI (Universidade Federal de Itajubá)
+Repositório com as listas de exercício da disciplina COM110 da UNIFEI (Universidade Federal de Itajubá)
